@@ -49,8 +49,8 @@ export default function Home() {
                             <Image
                                 src={`/eleaflet_image/${eleaflet.image}`}
                                 className="w-full"
-                                width={256}
-                                height={540}
+                                width={330}
+                                height={695}
                                 alt={eleaflet.description}
                             />
                         </Link>
