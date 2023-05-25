@@ -26,7 +26,7 @@ export default function Home() {
         {
             title: "E-Leaflet 4",
             description: "Ayo gunakan antibiotik secara bijak dan tepat",
-            image: "eleaflet_4.jpg",
+            image: "eleaflet_4_1.jpg",
         },
         {
             title: "E-Leaflet 5",
